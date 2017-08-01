@@ -1,0 +1,19 @@
+{
+  "name": "instalacja",
+  "version": "1.0.0",
+  "description": "zadanie 8.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ba76sia/Project-1.git"
+  },
+  "author": "Ba76sia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ba76sia/Project-1/issues"
+  },
+  "homepage": "https://github.com/Ba76sia/Project-1#readme"
+}
